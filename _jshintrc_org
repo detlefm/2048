@@ -1,0 +1,19 @@
+{
+    "esnext": true,
+    "indent": 2,
+    "maxlen": 80,
+    "freeze": true,
+    "camelcase": true,
+    "unused": true,
+    "eqnull": false,
+    "proto": false,
+    "supernew": false,
+    "noyield": true,
+    "evil": false,
+    "node": true,
+    "boss": true,
+    "expr": true,
+    "loopfunc": true,
+    "white": true,
+    "maxdepth": 4
+}

@@ -61,6 +61,7 @@
         get: getter
       });
     } else {
+      console.log("defineElementGetter");
       obj.__defineGetter__(prop, getter);
     }
   }
